@@ -13,7 +13,7 @@ const scraper = async (username) => {
         const dom = new JSDOM(html);
         const doc = dom.window.document;
 
-        // Select all repository list items
+        // The parser
         const source = Array.from(
             doc.querySelectorAll("#user-repositories-list li")
         )
