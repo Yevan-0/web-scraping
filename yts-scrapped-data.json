@@ -1,122 +1,187 @@
 [
     {
+        "title": "Bugonia",
+        "year": "2025",
+        "rating": "7.7 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/bugonia_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/bugonia-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "actors": []
+    },
+    {
+        "title": "Last Days",
+        "year": "2025",
+        "rating": "4.8 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/last_days_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/last-days-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Determined to fulfill his life’s mission, 26-year-old John Allen Chau embarks on a dangerous adventure across the globe to convert the uncontacted tribe of North Sentinel Island to Christianity, while a detective from the Andaman Islands races to stop him before he does harm to himself or the tribe.",
+        "actors": []
+    },
+    {
+        "title": "One Shot with Ed Sheeran",
+        "year": "2025",
+        "rating": "7.9 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/one_shot_with_ed_sheeran_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/one-shot-with-ed-sheeran-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
+        "actors": []
+    },
+    {
+        "title": "The Carman Family Deaths",
+        "year": "2025",
+        "rating": "6.3 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/the_carman_family_deaths_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/the-carman-family-deaths-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
+        "actors": []
+    },
+    {
         "title": "[HI] Nishaanchi",
         "year": "2025",
         "rating": "6.6 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/nishaanchi_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/nishaanchi_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/nishaanchi-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+        "actors": []
     },
     {
         "title": "Attempted Murder",
         "year": "2025",
-        "rating": "6.8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/attempted_murder_2025/medium-cover.jpg"
+        "rating": "6.6 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/attempted_murder_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/attempted-murder-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "When a socially awkward teen, Daniel, discovers the identity of the infamous “Jack-O’-Lantern Killer,” he sees a dark path to fulfilling his deepest desires. Mentored by the killer himself, Daniel aims to carry on the gruesome legacy, but his own ineptitude threatens to derail all of his hopes and dreams.",
+        "actors": []
     },
     {
         "title": "Anemone",
         "year": "2025",
         "rating": "5.7 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/anemone_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/anemone_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/anemone-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Middle-aged Jem sets out from his suburban home on a journey into the woods, where he reconnects with his estranged hermit brother Ray. Bonded by a mysterious, complicated past, the men share a fraught, if occasionally tender relationship—one that was forever altered by shattering events decades earlier.",
+        "actors": []
     },
     {
         "title": "[PT] The Son of a Thousand Men",
         "year": "2025",
-        "rating": "7.4 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/the_son_of_a_thousand_men_2025/medium-cover.jpg"
+        "rating": "7.3 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/the_son_of_a_thousand_men_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/the-son-of-a-thousand-men-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets.",
+        "actors": []
     },
     {
         "title": "Champagne Problems",
         "year": "2025",
-        "rating": "6.2 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/champagne_problems_2025/medium-cover.jpg"
+        "rating": "6.1 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/champagne_problems_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/champagne-problems-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+        "actors": []
     },
     {
         "title": "Altered",
         "year": "2025",
         "rating": "3.8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/altered_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/altered_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/altered-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
+        "actors": []
     },
     {
         "title": "Thoughts & Prayers",
         "year": "2025",
-        "rating": "6.8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/thoughts_prayers_2025/medium-cover.jpg"
+        "rating": "6.7 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/thoughts_prayers_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/thoughts-prayers-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "In a dystopic America, children are taught how to prepare for school shootings through elaborate drills. Yet what are intended as self-defense mechanisms are themselves deeply traumatic for students, parents, educators, and entire communities.",
+        "actors": []
     },
     {
         "title": "Anniversary",
         "year": "2025",
         "rating": "6.7 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/anniversary_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/anniversary_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/anniversary-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "When Ellen and Paul’s son introduces his new girlfriend one lovely afternoon at their 25th anniversary party, no one suspects that it is the beginning of the end for this happy family. The new girlfriend is Liz, Ellen’s former student, who left the university, some years before, after Ellen called her out in class for her radical ideology.",
+        "actors": []
     },
     {
         "title": "[TE] Mithra Mandali",
         "year": "2025",
         "rating": "6.7 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/mithra_mandali_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/mithra_mandali_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/mithra-mandali-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "The lives of a group of misfit friends become chaotic after one of them falls for a politician's daughter.",
+        "actors": []
     },
     {
         "title": "Train Dreams",
         "year": "2025",
         "rating": "7.6 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/train_dreams_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/train_dreams_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/train-dreams-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+        "actors": []
     },
     {
         "title": "Kathleen Madigan: The Family Thread",
         "year": "2025",
-        "rating": "8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/kathleen_madigan_the_family_thread_2025/medium-cover.jpg"
+        "rating": "7.9 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/kathleen_madigan_the_family_thread_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/kathleen-madigan-the-family-thread-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Comedian Kathleen Madigan is back with her latest stand up comedy special focusing on teaching kids math through gambling and Fantasy Football, celebrating Midwest pioneers, raising 4 \"feral\" cats, managing aging parents and modern ideas for the Catholic Church to compete with Megachurches.",
+        "actors": []
     },
     {
         "title": "Sebastian Maniscalco: It Ain't Right",
         "year": "2025",
         "rating": "6.7 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/sebastian_maniscalco_it_aint_right_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/sebastian_maniscalco_it_aint_right_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/sebastian-maniscalco-it-aint-right-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Filmed live at the legendary United Center arena in Chicago, Sebastian Maniscalco goes all in on family chaos, aging, and the little things that drive us all nuts—with his one-of-a-kind comedic bite.",
+        "actors": []
     },
     {
         "title": "The Age of Disclosure",
         "year": "2025",
         "rating": "7.1 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/the_age_of_disclosure_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/the_age_of_disclosure_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/the-age-of-disclosure-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
+        "actors": []
     },
     {
         "title": "After the Hunt",
         "year": "2025",
-        "rating": "6 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/after_the_hunt_2025/medium-cover.jpg"
+        "rating": "5.9 / 10",
+        "imageUrl": "https://img.yts.lt/assets/images/movies/after_the_hunt_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/after-the-hunt-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+        "actors": []
     },
     {
         "title": "The Family Plan 2",
         "year": "2025",
         "rating": "5.6 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/the_family_plan_2_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/the_family_plan_2_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/the-family-plan-2-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+        "actors": []
     },
     {
         "title": "Code 3",
         "year": "2025",
         "rating": "7.2 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/code_3_2025/medium-cover.jpg"
-    },
-    {
-        "title": "My Penguin Friend",
-        "year": "2024",
-        "rating": "6.8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/my_penguin_friend_2024/medium-cover.jpg"
-    },
-    {
-        "title": "[DA] Boundless",
-        "year": "2024",
-        "rating": "5.6 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/boundless_2024/medium-cover.jpg"
-    },
-    {
-        "title": "Violent Ends",
-        "year": "2025",
-        "rating": "5.9 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/violent_ends_2025/medium-cover.jpg"
-    },
-    {
-        "title": "If I Had Legs I'd Kick You",
-        "year": "2025",
-        "rating": "6.8 / 10",
-        "imageUrl": "https://img.yts.lt/assets/images/movies/if_i_had_legs_id_kick_you_2025/medium-cover.jpg"
+        "imageUrl": "https://img.yts.lt/assets/images/movies/code_3_2025/medium-cover.jpg",
+        "detailUrl": "https://yts.lt/movies/code-3-2025?4ESVvSxCDNEQzoKh_460JxQH97vjX55cqc95Gk-YZNPDEHPgobnp3uuwPqRMOw",
+        "description": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
+        "actors": [
+            "Eric Jungmann as Male Nurse",
+            "Andy Milder as Bruce",
+            "Michael Monks as Officer White",
+            "Treisa Gary as Nurse Ruth"
+        ]
     }
 ]
